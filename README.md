@@ -1,6 +1,6 @@
 # 🎯 Purpose
 
-In order to complete my thesis and complete the Software Tester postgraduate studies, I prepared this project for automation testing a some website.
+In order to complete my thesis and the Software Tester postgraduate studies, I prepared this project for automation testing a some website.
 I chose an example https://www.saucedemo.com/ 
 from https://testelka.pl/strony-na-ktorych-mozna-cwiczyc-testowanie/
 
