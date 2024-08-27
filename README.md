@@ -14,8 +14,8 @@ from https://testelka.pl/strony-na-ktorych-mozna-cwiczyc-testowanie/
 
 Choose tests what interests you and enjoy by clicking the Run Test - Ctrl+Shift+F10 ^^
 
-🚀 About Me
+## 🚀 About Me
 I am a beginner automation tester
 
-🛠 Skills
+## 🛠 Skills
 Python, Selenium, Bash 
